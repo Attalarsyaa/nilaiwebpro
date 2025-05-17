@@ -2,7 +2,7 @@
     <div class="col-12">
         <div class="card">
             <div class="card-header row">
-                <div class="card-title h3 col-8">Data kelas</div>
+                <div class="card-title h3 col-8">Data Kelas</div>
                 <div class="col-4">
                     <a href="?m=kelas&s=add" class="btn btn-lg btn-primary float-end">Tambah</a>
                 </div>
